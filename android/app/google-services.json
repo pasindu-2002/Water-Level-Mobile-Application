@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "400309373110",
+    "firebase_url": "https://smart-home-224ab-default-rtdb.firebaseio.com",
+    "project_id": "smart-home-224ab",
+    "storage_bucket": "smart-home-224ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400309373110:android:1a8edf95d694a7c385be17",
+        "android_client_info": {
+          "package_name": "com.example.smart_home_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400309373110-tfn50kmhan7kk9jenld2amdfrtjc5s66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHLVpDXNKIs16xaetKOurt0vUqplmuJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400309373110-tfn50kmhan7kk9jenld2amdfrtjc5s66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400309373110:android:8e1ee98e4414200385be17",
+        "android_client_info": {
+          "package_name": "com.example.waterlevel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400309373110-tfn50kmhan7kk9jenld2amdfrtjc5s66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGHLVpDXNKIs16xaetKOurt0vUqplmuJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400309373110-tfn50kmhan7kk9jenld2amdfrtjc5s66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
