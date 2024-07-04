@@ -1,4 +1,4 @@
-# waterlevel
+# Water Level Mobile App
 
 A new Flutter project.
 
